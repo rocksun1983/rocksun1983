@@ -1,17 +1,39 @@
-- 👋 Hi, I’m @rocksun1983
-  I'm a flexible and profoundly talented expert who flawlessly explores the universes of data analysis, frontend, backend and mobile app development,. With an extensive comprehension of the mechanical scene, I have built a robust career marked by innovation, precision, and a relentless pursuit of excellence.
-As a data analyst, I have exhibited extraordinary capacity in analyzing complex datasets to remove significant experiences. My logical abilities are supplemented by capability in statistical analysis, data visualization, and predictive modeling, utilizing tools such as Python, SQL, and Tableau. My skill for changing raw data into noteworthy knowledge has been significant in driving informed direction and vital drives for my clients.
-Notwithstanding my Data analytic skill, I am a seasoned developer with hands-on experience in both frontend and backend technologies. My  frontend development skills include a strong command of HTML, CSS, JavaScript, and popular frameworks like React, React-Native and Angular. On the backend, I  excels in building robust and scalable applications using languages and technologies such as Python, and SQL/NoSQL databases. This full-stack proficiency allows me to create seamless, end-to-end solutions that enhance user experiences and operational efficiency.
+ Hi, I’m @rocksun1983
+Software Engineer |  Cyber Security Analyst
+I am a versatile and results-driven Software Engineer and Cyber Security Analyst with a strong foundation in building scalable applications and securing digital systems. I combine expertise in full-stack development with a growing specialization in cybersecurity, enabling me to design solutions that are not only functional but also secure.
+**ABOUT ME**
+I have hands-on experience across the full software development lifecycle, including:
+🔹 Frontend Development: HTML, CSS, JavaScript, React, React Native, Angular
+🔹 Backend Development: Python, APIs, SQL & NoSQL databases
+🔹 Mobile Development: Cross-platform applications using modern frameworks
+🔹 Data Analysis: Python, SQL, data visualization, and insights generation
+🔹 Cloud & Network Security
+I am passionate about building efficient, user-friendly, and secure applications that solve real-world problems.
+**CYBER SECURITY FOCUS**
+With the increasing importance of digital security, I am actively developing my expertise in:
+Network and application security
+Threat analysis and vulnerability assessment
+Security best practices and risk management
+Protecting systems against modern cyber threats
 
-- 👀 I’m interested in ... Programming, analysing Data and cyber security Activities
-- 🌱 I’m currently learning ...
-  Recognizing the critical importance of data security in today's digital era, I have  recently embarked on a journey to deepen my knowledge in cyber security. I am actively learning about the latest cyber threats, security protocols, and defense mechanisms to safeguard digital assets. This new area of study reflects my commitment to ensuring the integrity, confidentiality, and availability of data across all platforms I works with.
-- 💞️ I’m looking to collaborate on ...Cyber Security Expert
-- 📫 How to reach me ...github.com/rocksun1983
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My goal is to integrate security into every stage of development (Secure-by-Design approach).
+**INTERESTS**
+*Software Engineering
+*Cyber Security
+*Data Analysis
+*Web3 & Blockchain Development
 
-<!---
-rocksun1983/rocksun1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**CURRENTLY LEARNING**
+*Advanced Cyber Security techniques
+*Smart Contract Security (Solidity)
+
+**COLLABORATION**
+I’m open to collaborating on:
+-Software Development Projects
+-Cyber Security Projects
+-Web3 / Blockchain Applications
+
+**CONTACT ME**
+GitHub: https://github.com/rocksun1983
+
+
